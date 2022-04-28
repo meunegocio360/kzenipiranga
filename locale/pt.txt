@@ -12,6 +12,9 @@ WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/
 
 ## Media
 
+### Audio
+audiores_4301855F_6C9A_630F_41A7_A2372D407C14.mp3Url = media/audio_439DB1FE_6C86_2311_418B_147E2D9454CB_pt.mp3
+
 ### Title
 panorama_4DFE421E_6C8E_6110_41CD_567B20B264D7.label = Banheiro
 panorama_70437D97_6C8E_6310_41C6_D68A8BA9AAD9.label = Café
